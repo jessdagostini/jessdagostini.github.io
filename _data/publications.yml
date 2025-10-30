@@ -1,0 +1,21 @@
+main:
+
+  - title: "miniGiraffe: A Pangenomics Mapping Proxy App"
+    authors: <strong>Jessica Dagostini</strong>, Joseph B. Manzano, Tyler Sorensen, Scott Beamer
+    conference_short: IISWC
+    conference: IEEE International Symposium on Workload Characterization (IISWC) 2025.
+    pdf: https://yaoyaoliu.web.illinois.edu/papers/ImageNet3D_Towards_General_Purpose_Object_Level_3D_Understanding.pdf
+    bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
+    data: https://github.com/wufeim/imagenet3d
+    page: https://imagenet3d.github.io/
+    # image: https://img.yliu.me/teaser/imagenet3d.png
+
+  - title: "ImageNet3D: Towards General-Purpose Object-Level 3D Understanding"
+    authors: Wufei Ma, Guofeng Zhang, Qihao Liu, Guanning Zeng, Adam Kortylewski, <strong>Yaoyao Liu</strong>, Alan Yuille
+    conference_short: NeurIPS
+    conference: NeurIPS 2024 Datasets and Benchmarks Track.
+    pdf: https://yaoyaoliu.web.illinois.edu/papers/ImageNet3D_Towards_General_Purpose_Object_Level_3D_Understanding.pdf
+    bibtex: https://dblp.org/rec/journals/corr/abs-2406-09613.html?view=bibtex
+    data: https://github.com/wufeim/imagenet3d
+    page: https://imagenet3d.github.io/
+    image: https://img.yliu.me/teaser/imagenet3d.png

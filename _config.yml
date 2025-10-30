@@ -1,0 +1,48 @@
+# Basic Information 
+title: Jessica Dagostini
+position: PhD Student
+affiliation: University of California, Santa Cruz
+# affiliation_link: https://www.illinois.edu/
+affiliation_logo: ./assets/img/ucsc.svg
+email: jessica.dagostini@ucsc.edu
+
+# Search Engine Optimization (SEO)
+keywords: jessica dagostini, dagostini jessica
+canonical: https://jessicadagostini.github.io
+description: Jessica Dagostini is a PhD student at the University of California, Santa Cruz. Her research lies on exploring scheduling algorithms for scientific applications for improving performance and energy efficiency on high-performance computing systems. 
+
+# The option is used to enable the Illinois template.
+enable_hopkins_logo: true
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
+link_type: icon #text/icon
+google_scholar: https://scholar.google.com/citations?user=VJTwukYAAAAJ&hl=en
+github_link: https://github.com/jessdagostini/
+linkedin: https://www.linkedin.com/in/jessica-dagostini/
+cv_link: ./assets/files/Jessica_Dagostini_CV.pdf
+
+# Images 
+avatar: ./assets/img/profile.jpg
+
+# Footnotes
+footnote: Feel free to use my website's source code.
+footnote_link: https://github.com/yaoyao-liu/minimal-light
+
+front_page_news: 5
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+# clustrmaps_id: HV0rAUdAxpfEQLOsVs0FcJTR2rKVI5sEQUZIDM-N_HY
+
+# The following files will be removed from the generated website.
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME
