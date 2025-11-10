@@ -1,14 +1,11 @@
 main:
 
-  - title: "Teaching"
-    url: teaching/
-    right: true 
-
   - title: "Services"
     url: services/
+    right: true 
 
-  - title: "Talks"
-    url: talks/
+  - title: "Experience"
+    url: experience/
 
   #- title: "Teaching"
   #  url: ./teaching.html

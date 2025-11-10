@@ -9,7 +9,8 @@ permalink: /news/
 <ul class="news">
   {% for news in site.data.news.main %}
   <li>
-    <strong>[{{ news.date }}]</strong> {{ news.content }}
+    <em>[{{ news.date }}]</em> - <strong>{{ news.title }}</strong><br />
+    {{news.content}}
   </li>
   {% endfor %}
 </ul>

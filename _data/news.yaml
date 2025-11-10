@@ -1,25 +1,29 @@
 main:
-  - date: May 15, 2024
-    title: "Presented at the International Conference on Parallel Processing"
-    content: "I presented my latest research on load balancing in distributed systems at the International Conference on Parallel Processing (ICPP) 2024."
-    link: "https://icpp2024.org/papers/12345"
-  - date: 2024-03-10
-    title: "Published a new paper in the Journal of High Performance Computing"
-    content: "My recent work on energy-efficient scheduling algorithms has been published in the Journal of High Performance Computing."
-    link: "https://jhpc.org/articles/67890"
-  - date: 2024-01-20
-    title: "Joined the University of California, Santa Cruz as a PhD Student"
-    content: "I am excited to announce that I have joined the University of California, Santa Cruz as a PhD student in the Computer Science department."
-    link: "https://www.ucsc.edu/news/jessica-dagostini-joins-phd-program"
-  - date: May 15, 2024
-    title: "Presented at the International Conference on Parallel Processing"
-    content: "I presented my latest research on load balancing in distributed systems at the International Conference on Parallel Processing (ICPP) 2024."
-    link: "https://icpp2024.org/papers/12345"
-  - date: 2024-03-10
-    title: "Published a new paper in the Journal of High Performance Computing"
-    content: "My recent work on energy-efficient scheduling algorithms has been published in the Journal of High Performance Computing."
-    link: "https://jhpc.org/articles/67890"
-  - date: 2024-01-20
+  - date: Nov 10, 2025
+    title: "Changing Advising Team"
+    content: "I am changing my advising team and I am starting to working with Prof. Dr. Abel Souza at the Sustainable Computing Lab at UCSC. I am trully grateful to my previous advisors, Prof. Dr. Scott Beamer and Prof. Dr. Tyler Sorensen for all the support and guidance during these past years and for their understanding and guidance to make a smooth transition. I am glad also to be able to continue collaborating with them in future projects!"
+  - date: Oct 15, 2025
+    title: "Presenting my work at IISWC 2025"
+    content: "I am excited to share that I will be presenting my paper 'miniGiraffe: A Pangenomics Mapping Proxy App' at the IEEE International Symposium on Workload Characterization (IISWC) 2025. Looking forward to engaging with fellow researchers and sharing insights on pangenomics mapping!"
+  - date: Oct 1, 2025
+    title: "Poster Accepted at SC25"
+    content: "Excited to share that our poster 'A Toolbox for Load Balancing Development and Analysis in WarpX/AMReX Applications' has been accepted for presentation at the Supercomputing Conference (SC) 2025! Looking forward to discussing our work on enabling a faster analysis of load balancing algorithms for AMR applications!"
+  - date: Jun 30, 2025
+    title: "Paper accepted at IISWC 2025"
+    content: "Thrilled to announce that my paper 'miniGiraffe: A Pangenomics Mapping Proxy App' has been accepted for presentation at the IEEE International Symposium on Workload Characterization (IISWC) 2025! Grateful for the opportunity to contribute to the field of workload characterization."
+  - date: Jun 5, 2025
+    title: "Joined NERSC as a Summer Intern"
+    content: "I am excited to share that I will be interning at the National Energy Research Scientific Computing Center (NERSC) this summer! Looking forward to gaining hands-on experience and contributing to cutting-edge research in high-performance computing."
+  - date: Nov 15, 2024
+    title: "ACM SIGHPC Fellowship Awarded"
+    content: "I am beyond honored to be selected as an 2024 ACM SIGHPC Fellow! This recognition motivates me to continue my research in high-performance computing and contribute to the community."
+  - date: Apr 1, 2024
+    title: "Invited Talk on BioSys 2024"
+    content: "We got an invitation to present our first results of my Ph.D. research at the BioSys workshop, that will be held in conjunction with ASPLOS'24 on San Diego. I will present the first results of our proxy application based on a pangenome mapping tool. Excited for this talk!"
+  - date: May 15, 2023
+    title: "2nd Place at ISC Virtual Student Cluster Competition"
+    content: "Our team at the ISC Virtual SCC Not-So-Slow-Slugs win the 2nd place! It was my first time participating in this kind of competition. Thanks to my team mates for all the work and help!"
+  - date: Sept 5, 2022
     title: "Joined the University of California, Santa Cruz as a PhD Student"
     content: "I am excited to announce that I have joined the University of California, Santa Cruz as a PhD student in the Computer Science department."
     link: "https://www.ucsc.edu/news/jessica-dagostini-joins-phd-program"
