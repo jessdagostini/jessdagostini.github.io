@@ -1,0 +1,17 @@
+main:
+
+  - title: "Services"
+    url: services/
+    right: true 
+
+  - title: "Experience"
+    url: experience/
+
+  #- title: "Teaching"
+  #  url: ./teaching.html
+
+  - title: "Publications"
+    url: publications/
+
+  - title: "Home"
+    url: ./

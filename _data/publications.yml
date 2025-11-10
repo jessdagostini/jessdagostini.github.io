@@ -1,0 +1,52 @@
+conferences:
+  - title: "miniGiraffe: A Pangenomics Mapping Proxy App"
+    authors: <strong>Jessica Dagostini</strong>, Joseph B. Manzano, Tyler Sorensen, Scott Beamer
+    conference_short: IISWC
+    conference: IEEE International Symposium on Workload Characterization (IISWC) 2025.
+    pdf: minigiraffe-iiswc-2025.pdf
+    doi: 10.1109/IISWC55611.2025.00012
+    artifact: https://github.com/jessdagostini/iiswc-minigiraffe-ae
+    code: https://github.com/jessdagostini/miniGiraffe
+
+  - title: "A Toolbox for Load Balancing Development and Analysis in WarpX/AMReX Applications [Poster]"
+    authors: <strong>Jessica Dagostini</strong>, Sowmya Yellapragada , Kevin Gott , Rebecca Hartman-Baker
+    conference_short: SC25
+    conference: Supercomputing Conference (SC) 2025.
+    pdf: load-balancing-toolbox-sc25.pdf
+    page: https://jessdagostini.github.io/lb-toolbox-amrex-sc-poster/
+    artifact: https://doi.org/10.5281/zenodo.17156075
+
+  - title: "Heterogeneity-Aware Task Allocation for Modern HPC Systems [Poster]"
+    authors: Sowmya Yellapragada, <strong>Jessica Dagostini</strong>, Kevin Gott, Rebecca Hartman-Baker
+    conference_short: SC25
+    conference: Supercomputing Conference (SC) 2025.
+    pdf: heterogeneity-aware-task-allocation-sc25.pdf
+
+  - title: "Improving Workload Balance of a Marine CSEM Inversion Application"
+    authors: <strong>Jessica Dagostini</strong>, Henrique Corrêa Pereira da Silva, Vinicius Garcia Pinto, Roberto Machado Velho, Eduardo SL Gastal, Lucas Mello Schnorr
+    conference_short: IPDPS
+    conference: IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW) 2021.
+    pdf: csem-ipdpsw-2021.pdf
+    artifact: https://doi.org/10.5281/zenodo.4572904
+    doi: https://doi.org/10.1109/IPDPSW52791.2021.00107
+
+  - title: "URI Online Judge Blocks: Construindo soluções em uma plataforma online de programação"
+    authors: <strong>Jessica Dagostini</strong>, Marcos Vinicius de Moura Lima, Jean Luca Bez, Neilor Tonin
+    conference_short: SBIE
+    conference: Brazilian Symposium on Computers in Education 2018.
+    pdf: blocks-sbie-2018.pdf
+    doi: https://doi.org/10.5753/cbie.sbie.2018.168
+
+  - title: "Incentivando a Aprendizagem de Algoritmos Atraves do URI Online Judge Forum 2.0"
+    authors: <strong>Jessica Dagostini</strong>, Marcos Lima, Lucas Bucior, Neilor Tonin, Jean Bez
+    conference_short: SBIE
+    conference: Brazilian Symposium on Computers in Education 2017.
+    pdf: forum-sbie-2017.pdf
+    page: https://judge.beecrowd.com/en/forum
+    doi: https://doi.org/10.5753/cbie.sbie.2017.1781
+
+journals:
+  - title: "Teste"
+    authors: <strong>Jessica Dagostini</strong>, Neilor Tonin, Jean Bez
+    journal_short: PERSPECTIVA
+    journal: Revista Pespectiva URI - Edicao 2016
