@@ -16,7 +16,7 @@ conferences:
     page: https://jessdagostini.github.io/lb-toolbox-amrex-sc-poster/
     artifact: https://doi.org/10.5281/zenodo.17156075
 
-  - title: "Heterogeneity-Aware Task Allocation for Modern HPC Systems [Poster]"
+  - title: "Heterogeneity-Aware Task Allocation for Modern HPC Systems [Poster] <em>(Best Poster Finalist)</em>"
     authors: Sowmya Yellapragada, <strong>Jessica Dagostini</strong>, Kevin Gott, Rebecca Hartman-Baker
     conference_short: SC25
     conference: Supercomputing Conference (SC) 2025.
