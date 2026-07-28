@@ -1,4 +1,7 @@
 main:
+  - date: Jun 4, 2026
+    title: "Successfully Proposed my PhD Thesis"
+    content: "I am thrilled to share that I have successfully proposed my PhD thesis and now I am a PhD candidate! We have demonstrated the initial results of our research on intent-driven orchestration for scientific computing. We demonstrate the potential of our approach by showing how a simpler version of the system could achieve different and composed computational intents without exploring the full search space tested. This marks a significant milestone in my academic journey, and I am grateful for the support and guidance of my advisors and colleagues throughout this process."
   - date: Nov 10, 2025
     title: "Changing Advising Team"
     content: "I am changing my advising team and I am starting to working with Prof. Dr. Abel Souza at the Sustainable Computing Lab at UCSC. I am trully grateful to my previous advisors, Prof. Dr. Scott Beamer and Prof. Dr. Tyler Sorensen for all the support and guidance during these past years and for their understanding and guidance to make a smooth transition. I am glad also to be able to continue collaborating with them in future projects!"

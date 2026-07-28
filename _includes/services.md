@@ -10,7 +10,7 @@
 **Wayfinding Co-chair** - SC'23
 
 - [2021 - Present] - **Women in HPC Workshop Series**<br />
-**General Co-chair** - *WHPC Workshop @ SC'25*; WHPC Workshop @ SC'24<br />
+**General Co-chair** - *WHPC Workshop @ SC'26*; WHPC Workshop @ SC'25; WHPC Workshop @ SC'24<br />
 **Submissions Co-chair** - WHPC Workshop @ SC'23; WHPC Workshop @ SC'22
 
 - [2021 - 2022] - **Women in HPC Affiliate - Brasil Regiao Sul**<br />

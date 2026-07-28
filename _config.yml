@@ -1,6 +1,6 @@
 # Basic Information 
 title: Jessica Dagostini
-position: PhD Student
+position: PhD Candidate
 affiliation: University of California, Santa Cruz
 # affiliation_link: https://www.illinois.edu/
 affiliation_logo: /assets/img/ucsc.png
@@ -9,7 +9,7 @@ email: jessica.dagostini@ucsc.edu
 # Search Engine Optimization (SEO)
 keywords: jessica dagostini, dagostini jessica
 canonical: https://jessicadagostini.github.io
-description: Jessica Dagostini is a PhD student at the University of California, Santa Cruz. Her research lies on exploring scheduling algorithms for scientific applications for improving performance and energy efficiency on high-performance computing systems. 
+description: Jessica Dagostini is a PhD candidate at the University of California, Santa Cruz. Her research lies on developing and structurizing intent-driven orchestration for scientific applications to improve performance and energy efficiency on high-performance computing systems. 
 
 # The option is used to enable the Illinois template.
 enable_hopkins_logo: false

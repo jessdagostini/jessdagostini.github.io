@@ -26,7 +26,12 @@
 
 - [2022 - Ongoing] - **Teaching Assistant**<br />
     University of California Santa Cruz<br />
-    CSE113 - Parallel and Concurrent Programming (Winter'23 and '24, Fall'24)
+    CSE113 - Parallel and Concurrent Programming (Winter'23, '24, and '26, Fall'24)
+    CSE120 - Computer Architecture (Spring'26)
+
+- [Jul/26 - Aug/26] - **Science and Internship Program Mentor**<br />
+_UCSC_ <br />
+Mentoring high school students to get research experience during a summer program. Project: AI Intent “Translator”: Using AI to Turn Natural Language into Supercomputer Job Settings.
 
 - [Jun/25 - Sept/25] - **Graduate Student Research Assistant**<br />
 _National Energy Research Scientific Computing Center (NERSC)_ <br />
