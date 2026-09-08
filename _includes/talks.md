@@ -1,6 +1,4 @@
-<h1 id="invited-talks"><span class="sr-only">Invited Talks</span></h1>
-
-<h2 style="margin: 60px 0px 10px;">Invited Talks</h2>
+<h2 id="invited-talks" style="margin: 60px 0px 10px;">Invited Talks</h2>
 
 <h4 style="margin:0 10px 0;">Learning with 3D Generative Models.</h4>
 

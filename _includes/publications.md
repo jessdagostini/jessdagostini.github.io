@@ -1,6 +1,4 @@
-<h1 id="publications"><span class="sr-only">Publications</span></h1>
-
-<h2 style="margin: 60px 0px -15px; font-size: 40px;">Publications </h2>
+<h2 id="publications" style="margin: 60px 0px -15px; font-size: 40px;">Publications </h2>
 
 
 <div class="publications">
