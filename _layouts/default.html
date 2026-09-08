@@ -66,8 +66,8 @@
       {% include navigation.md %}
       </div>
 
-      <a href="javascript:void(0);" class="icon" onclick="myFunction();reverseLinks()">
-        <i class="fa fa-bars"></i>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction();reverseLinks()" aria-label="Toggle navigation menu">
+        <i class="fa fa-bars" aria-hidden="true"></i>
       </a>
       
     </div>
@@ -130,32 +130,32 @@
         {% if site.link_type == 'icon' %}
         <div class="social-icons">
         {% if site.google_scholar %}
-        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
-          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
-        </a>  
+        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}" aria-label="Google Scholar profile">
+          <i class="ai ai-google-scholar" style="font-size:1.2rem" aria-hidden="true"></i>
+        </a>
         {% endif %}
 
         {% if site.cv_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
-          <i class="ai ai-cv" style="font-size:1.3rem;"></i>
+        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}" aria-label="Download curriculum vitae (opens PDF)">
+          <i class="ai ai-cv" style="font-size:1.3rem;" aria-hidden="true"></i>
         </a>
         {% endif %}
 
         {% if site.github_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
-          <i class="fab fa-github"></i>
+        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}" aria-label="GitHub profile">
+          <i class="fab fa-github" aria-hidden="true"></i>
         </a>
         {% endif %}
 
         {% if site.linkedin %}
-        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
-          <i class="fab fa-linkedin"></i>
+        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}" aria-label="LinkedIn profile">
+          <i class="fab fa-linkedin" aria-hidden="true"></i>
         </a>
         {% endif %}
 
         {% if site.twitter %}
-        <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
-          <i class="fab fa-x-twitter"></i>
+        <a style="margin: 0 0 0 0" href="{{ site.twitter }}" aria-label="X (formerly Twitter) profile">
+          <i class="fab fa-x-twitter" aria-hidden="true"></i>
         </a>
         {% endif %}
         </div>
