@@ -1,3 +1,8 @@
+/* Keep in-page jumps and focused elements clear of the fixed top nav bar */
+html {
+  scroll-padding-top: 90px;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
     /* background-color: #13294B; */
