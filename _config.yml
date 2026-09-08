@@ -46,3 +46,5 @@ exclude:
   - README.md
   - LICENSE
   - CNAME
+  - docs
+  - wcgareport.pdf
