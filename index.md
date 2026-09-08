@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-<h1 id="about-me"></h1>
+<h1 id="about-me"><span class="sr-only">About Me</span></h1>
 
-<h2 style="margin: 80px 0px 10px;"></h2>
+<div style="margin-top: 80px;"></div>
 
 I'm a Ph.D. Candidate at the University of California Santa Cruz and [2024 ACM SIGHPC Fellow](https://www.sighpc.org/opportunities/fellowships/2024-fellowship-winners), advised by Prof. Dr. [Abel Souza](https://asouza.io). My research interests focus on advancing computational methods for scientific applications by integrating workload characterization, predictive modeling, load balancing optimizations, and intent-based resource management within high-performance computing environments. During my PhD I have characterized a Pangenomics mapping application and developed [miniGiraffe](https://github.com/jessdagostini/miniGiraffe), a proxy application for pangenomics mapping that allows computer scientists to explore different optimizations for this new type of workload. I am also enthusiastic about graph-related problems. I love programming and solving logical puzzles (and trying to do lettering art)!
 
