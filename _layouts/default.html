@@ -60,7 +60,7 @@
     
     <div class="topnav">
 
-      <a href="{{ site.affiliation_link }}"><img width="40" src="../{{ site.affiliation_logo }}"></a>
+      <a href="{{ site.affiliation_link }}"><img width="40" src="../{{ site.affiliation_logo }}" alt="{{ site.affiliation }} logo" /></a>
 
       <div id="myLinks">
       {% include navigation.md %}
@@ -96,7 +96,7 @@
       <header>
         
         {% if site.avatar %}
-        <a class="image avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="avatar" /></a>
+        <span class="image avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="" /></span>
         {% endif %}
 
         <h1>{{ site.title }}</h1>
