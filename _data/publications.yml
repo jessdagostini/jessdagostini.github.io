@@ -4,7 +4,7 @@ conferences:
     conference_short: IISWC
     conference: IEEE International Symposium on Workload Characterization (IISWC) 2025.
     pdf: minigiraffe-iiswc-2025.pdf
-    doi: 10.1109/IISWC55611.2025.00012
+    doi: https://doi.org/10.1109/IISWC66894.2025.00036
     artifact: https://github.com/jessdagostini/iiswc-minigiraffe-ae
     code: https://github.com/jessdagostini/miniGiraffe
 
